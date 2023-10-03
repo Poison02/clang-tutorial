@@ -13,3 +13,4 @@
 - [变量](./docs/variable.md)
 - [运算符](./docs/operator.md)
 - [流程控制](./docs/flow-control.md)
+- [数据类型](./docs/data-types.md)
