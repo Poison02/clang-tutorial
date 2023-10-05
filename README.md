@@ -14,3 +14,5 @@
 - [运算符](./docs/operator.md)
 - [流程控制](./docs/flow-control.md)
 - [数据类型](./docs/data-types.md)
+- [指针](./docs/pointer.md)
+- [函数](./docs/function.md)
